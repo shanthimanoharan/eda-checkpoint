@@ -1,4 +1,4 @@
-dimDatePostPK,Date,Year,Month,MonthPeriod,MonthYear,Day,DayName
+dimDateServicePK,Date,Year,Month,MonthPeriod,MonthYear,Day,DayName
 20191215,12/15/2019,2019,December,201912,December 2019,15,Sunday
 20191216,12/16/2019,2019,December,201912,December 2019,16,Monday
 20191217,12/17/2019,2019,December,201912,December 2019,17,Tuesday
